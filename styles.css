@@ -3,5 +3,23 @@
 .Title3,
 .Title4{
     font-family: "Courier New", Courier, monospace;
+    text-align: center;
 }
 
+.Title{
+    font-size: 60px;
+}
+
+.Title2,
+.Title3,
+.Title4{
+    font-size: 21px;
+}
+
+body{
+    background-color: #FFFAF1
+}
+
+div{
+    text-align: center;
+}
