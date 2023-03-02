@@ -3,28 +3,34 @@ body{
 }
 
 .Title,
-.tbp{
+.tbp,
+.tuq{
     font-size: 60px;
     text-align: center;
     font-family: "Courier New", Courier, monospace;	
 }
 
-.tbp{
+.tbp,
+.tuq{
     font-size: 42px;
 }
 
 .img-main,
-.bpimg{
+.bpimg,
+.qp{
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
 
+
 .recipe-list,
 .ingredients,
 .st,
 .sp,
-.instructions{
+.instructions,
+.fh,
+.fp{
     text-align: center;
     list-style-type: none;
     padding: 1em;
@@ -34,7 +40,9 @@ body{
 .ingredients,
 .st,
 .sp,
-.instructions{
+.instructions,
+.fh,
+.fp{
     padding: 0%;
 }
 
@@ -51,7 +59,16 @@ a {
     text-decoration: none;
 }
 
+
 .nf{
     text-align: center;
     font-family: "Courier New", Courier, monospace;	    
 }
+
+.qingredients,
+.qinstructions,
+.qnf,
+.qnutrition{
+    font-family: 'Courier New', Courier, monospace;
+}
+
