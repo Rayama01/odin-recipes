@@ -64,7 +64,9 @@ a {
 .qnf,
 .qnutrition,
 .ingredients,
-.instructions-h{
+.instructions-h,
+.instructions,
+.nf{
     font-family: 'Courier New', Courier, monospace;
 }
 
