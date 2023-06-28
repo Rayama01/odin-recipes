@@ -1,5 +1,5 @@
 # odin-recipes
-This project was made for The Odin Project using HTML and CSS. I kept the website as it was, including class names, Etc., even after I added the final website and made sure everything worked. That was on purpose so I could see my progression in web development.
+This project was made for The Odin Project using HTML and CSS. I kept the website as it was, including class names and layout., Even after I added the final recipe and made sure everything worked. That was on purpose so I could see my progression in web development.
 
 Live site: [Here](https://rayama01.github.io/odin-recipes/)
 
